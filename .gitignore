@@ -1,0 +1,9 @@
+package-lock.json
+
+*.local
+
+dist/*
+
+node_modules
+
+node_modules/*
